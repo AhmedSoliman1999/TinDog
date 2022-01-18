@@ -1,2 +1,2 @@
 # Tindog
-A website I made during Angela web devlopment bootcamp on udemy 
+A website I made during  Angela web devlopment bootcamp Course  on udemy 
